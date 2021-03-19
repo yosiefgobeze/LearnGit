@@ -1,3 +1,9 @@
 Some files will be added here and later we can access them.
 Changes added while on branch one. 11111111111111111
+<<<<<<< HEAD
 git reset is used to unstage changes done using git add.
+=======
+Changes added while on branch two. 22222222222222222
+One.txt file is updated here
+Changes added while on branch three. 333333333333333
+>>>>>>> b51c12285d74b1209758e1188d811e558ea47d74
